@@ -1,0 +1,10 @@
+F:\4th_YEAR_SC\Second Term\DSP\Task _ Package\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\4th_YEAR_SC\Second Term\DSP\Task _ Package\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\4th_YEAR_SC\Second Term\DSP\Task _ Package\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+F:\4th_YEAR_SC\Second Term\DSP\Task _ Package\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\4th_YEAR_SC\Second Term\DSP\Task _ Package\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+G:\SC\2nd Term\Signals\2023\labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+G:\SC\2nd Term\Signals\2023\labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+G:\SC\2nd Term\Signals\2023\labs\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache
+G:\SC\2nd Term\Signals\2023\labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+G:\SC\2nd Term\Signals\2023\labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
